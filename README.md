@@ -1,7 +1,5 @@
-### Hey, I'm Kayke! 👋
+<a href="https://kxyke.com">
+  <img align="right" src="./assets/blackhole.svg" alt="ASCII black hole" width="220" />
+</a>
 
-<div align="center">
-  <a href="https://kxyke.com">
-    <img src="./assets/blackhole.svg" alt="ASCII black hole" width="360" />
-  </a>
-</div>
+### Hey, I'm Kayke! 👋
