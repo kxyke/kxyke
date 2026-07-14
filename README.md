@@ -17,10 +17,11 @@ Background em UI/UX guiando cada decisão de desenvolvimento.
 
 <img align="right" src="./assets/blackhole.svg" alt="Buraco negro em ASCII" width="280" />
 
-Desenvolvedor front-end na **Apresenta.me**, transformando experiências web do mercado imobiliário no Brasil.  
-Migrei para o desenvolvimento depois de mais de 7 anos em UI/UX e product design — o design thinking molda cada linha de código.
+Desenvolvedor front-end na **Apresenta.me**, atuando em plataformas web para o mercado imobiliário brasileiro.
 
-Cursando **Bacharelado em Sistemas de Informação** (UNIDAVI).
+Mais de 7 anos de experiência em **UI/UX e product design**, que hoje aplico na construção de interfaces — do protótipo no Figma ao código em produção.
+
+Bacharelando em **Sistemas de Informação** (UNIDAVI).
 
 <br clear="both" />
 
