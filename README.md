@@ -1,8 +1,12 @@
-# Kayke — Software Engineer · Mobile Developer
+<div align="center">
+  <img src="./assets/blackhole.gif" alt="Buraco negro em ASCII" width="513" />
+</div>
+
+# Kayke — Engenheiro de Software · Desenvolvedor Mobile
 
 ```
-Building fast, responsive, and beautiful mobile experiences.
-UI/UX background powering developer decisions.
+Construindo experiências mobile rápidas, responsivas e bonitas.
+Background em UI/UX guiando cada decisão de desenvolvimento.
 ```
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -13,89 +17,89 @@ UI/UX background powering developer decisions.
 
 ---
 
-## About
+## Sobre
 
-Front-end developer at **Apresenta.me** transforming real estate web experiences across Brazil.  
-Transitioned from 7+ years of UI/UX and product design into development—design thinking shapes every line of code.
+Desenvolvedor front-end na **Apresenta.me**, transformando experiências web do mercado imobiliário no Brasil.  
+Migrei para o desenvolvimento depois de mais de 7 anos em UI/UX e product design — o design thinking molda cada linha de código.
 
-Currently pursuing **Bachelor's in Sistemas de Informação** (UNIDAVI · Expected 2028).  
-Learning structured testing, clean architecture, and shipping production-grade code.
+Cursando **Bacharelado em Sistemas de Informação** (UNIDAVI · conclusão prevista para 2028).  
+Estudando testes estruturados, arquitetura limpa e código pronto para produção.
 
-**Currently focused on:** React Native · TypeScript · Test automation  
-**Career target:** Mobile development (iOS/Android) by February 2027
+**Foco atual:** React Native · TypeScript · Automação de testes  
+**Objetivo de carreira:** Desenvolvimento mobile (iOS/Android) até fevereiro de 2027
 
 ---
 
-## Tech Stack
+## Stack
 
-**Frontend**
+**Front-end**
 - React, React Native, TypeScript
-- Responsive design, component architecture, state management
+- Design responsivo, arquitetura de componentes, gerenciamento de estado
 
-**Backend**
+**Back-end**
 - Node.js, Python
-- REST APIs, database design, migrations
+- APIs REST, modelagem de banco de dados, migrations
 
-**Tools & Workflow**
+**Ferramentas e fluxo de trabalho**
 - Git, VS Code, Figma, Obsidian
-- Testing: Vitest, React Testing Library, Playwright
-- Database: PostgreSQL
+- Testes: Vitest, React Testing Library, Playwright
+- Banco de dados: PostgreSQL
 
 ---
 
-## Featured Projects
+## Projetos em destaque
 
 ### **UserRegistryProject**
 Sistema em Java para registro de usuários e relatórios, aplicando os padrões **Singleton** e **Decorator**.  
-*Tech:* Java  
-[→ Repository](https://github.com/kxyke/UserRegistryProject)
+*Tecnologias:* Java  
+[→ Repositório](https://github.com/kxyke/UserRegistryProject)
 
 ### **conversor-de-moedas**
 Conversor de moedas bidirecional, exercício de programação funcional (funções puras, imutabilidade, composição).  
-*Tech:* JavaScript  
-[→ Repository](https://github.com/kxyke/conversor-de-moedas)
+*Tecnologias:* JavaScript  
+[→ Repositório](https://github.com/kxyke/conversor-de-moedas)
 
 ### **agenda-contatos**
 Agenda de contatos via terminal com CRUD completo e sistema de favoritos.  
-*Tech:* Python  
-[→ Repository](https://github.com/kxyke/agenda-contatos)
+*Tecnologias:* Python  
+[→ Repositório](https://github.com/kxyke/agenda-contatos)
 
 ### **cambio-facil**
 Conversor de moedas simples e responsivo (USD/EUR/GBP → BRL).  
-*Tech:* HTML, CSS, JavaScript  
-[→ Repository](https://github.com/kxyke/cambio-facil)
+*Tecnologias:* HTML, CSS, JavaScript  
+[→ Repositório](https://github.com/kxyke/cambio-facil)
 
 ---
 
-## Learning & Growth
+## Aprendizado
 
-Actively building expertise through **Rocketseat methodology**:
-- Decoupled conceptual + hands-on learning
-- Active recall over passive notes
-- Automated testing throughout (Vitest, Playwright)
-- Version control best practices (conventional commits)
+Evoluindo continuamente com a **metodologia Rocketseat**:
+- Aprendizado conceitual e prático desacoplados
+- Active recall em vez de anotações passivas
+- Testes automatizados em todo o fluxo (Vitest, Playwright)
+- Boas práticas de versionamento (conventional commits)
 
 ---
 
-## GitHub Stats
+## Estatísticas
 
 <div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kxyke&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxyke&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" align="center" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=kxyke&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" align="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxyke&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
 
-## Let's Connect
+## Contato
 
 Email: [devkayke@gmail.com](mailto:devkayke@gmail.com)  
 LinkedIn: [in/kxyke](https://linkedin.com/in/kxyke)  
-Portfolio: [kxyke.com](https://kxyke.com)
+Portfólio: [kxyke.com](https://kxyke.com)
 
 ---
 
 <div align="center">
   <sub>
-    Crafted with attention to detail · Rio do Sul, SC
+    Feito com atenção aos detalhes · Rio do Sul, SC
   </sub>
 </div>
