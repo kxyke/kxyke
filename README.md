@@ -1,4 +1,4 @@
-### Hey, I'm Kayke — front-end developer
+### Hey, I'm Kayke! 👋
 
 [kxyke.com](https://kxyke.com)
 
