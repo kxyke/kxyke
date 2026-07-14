@@ -15,7 +15,7 @@ Background em UI/UX guiando cada decisão de desenvolvimento.
 
 ## Sobre
 
-<img align="right" src="./assets/blackhole.svg" alt="Buraco negro em ASCII" width="125" hspace="20" />
+<img align="right" src="./assets/blackhole.svg" alt="Buraco negro em ASCII" width="190" hspace="24" />
 
 Desenvolvedor front-end apaixonado por transformar interfaces complexas em experiências simples e intuitivas.
 
