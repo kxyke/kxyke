@@ -15,7 +15,7 @@ Background em UI/UX guiando cada decisão de desenvolvimento.
 
 ## Sobre
 
-<img align="right" src="./assets/blackhole.svg" alt="Buraco negro em ASCII" width="150" />
+<img align="right" src="./assets/blackhole.svg" alt="Buraco negro em ASCII" width="180" hspace="10" />
 
 Desenvolvedor front-end na **Apresenta.me**, atuando em plataformas web para o mercado imobiliário brasileiro.
 
