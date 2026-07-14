@@ -76,11 +76,3 @@ Conversor de moedas simples e responsivo (USD/EUR/GBP → BRL).
 Email: [devkayke@gmail.com](mailto:devkayke@gmail.com)  
 LinkedIn: [in/kxyke](https://linkedin.com/in/kxyke)  
 Portfólio: [kxyke.com](https://kxyke.com)
-
----
-
-<div align="center">
-  <sub>
-    Feito com atenção aos detalhes · Rio do Sul, SC
-  </sub>
-</div>
