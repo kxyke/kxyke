@@ -71,25 +71,6 @@ Conversor de moedas simples e responsivo (USD/EUR/GBP → BRL).
 
 ---
 
-## Aprendizado
-
-Evoluindo continuamente com a **metodologia Rocketseat**:
-- Aprendizado conceitual e prático desacoplados
-- Active recall em vez de anotações passivas
-- Testes automatizados em todo o fluxo (Vitest, Playwright)
-- Boas práticas de versionamento (conventional commits)
-
----
-
-## Estatísticas
-
-<div align="center">
-  <img height="165" align="center" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=kxyke&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" align="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxyke&layout=compact&theme=dark&hide_border=true" />
-</div>
-
----
-
 ## Contato
 
 Email: [devkayke@gmail.com](mailto:devkayke@gmail.com)  
