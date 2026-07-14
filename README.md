@@ -20,11 +20,7 @@ Background em UI/UX guiando cada decisão de desenvolvimento.
 Desenvolvedor front-end na **Apresenta.me**, transformando experiências web do mercado imobiliário no Brasil.  
 Migrei para o desenvolvimento depois de mais de 7 anos em UI/UX e product design — o design thinking molda cada linha de código.
 
-Cursando **Bacharelado em Sistemas de Informação** (UNIDAVI · conclusão prevista para 2028).  
-Estudando testes estruturados, arquitetura limpa e código pronto para produção.
-
-**Foco atual:** React Native · TypeScript · Automação de testes  
-**Objetivo de carreira:** Desenvolvimento mobile (iOS/Android) até fevereiro de 2027
+Cursando **Bacharelado em Sistemas de Informação** (UNIDAVI).
 
 <br clear="both" />
 
