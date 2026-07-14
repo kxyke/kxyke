@@ -17,9 +17,11 @@ Background em UI/UX guiando cada decisão de desenvolvimento.
 
 <img align="right" src="./assets/blackhole.svg" alt="Buraco negro em ASCII" width="125" hspace="20" />
 
-Desenvolvedor front-end na **Apresenta.me**, atuando em plataformas web para o mercado imobiliário brasileiro.
+Desenvolvedor front-end apaixonado por transformar interfaces complexas em experiências simples e intuitivas.
 
-Mais de 7 anos de experiência em **UI/UX e product design**, que hoje aplico na construção de interfaces — do protótipo no Figma ao código em produção.
+Depois de mais de 7 anos em **UI/UX e product design**, migrei para o desenvolvimento para colocar a mão na massa e traduzir decisões de design em código.
+
+Hoje meu foco é **React**, **React Native** e **TypeScript** — sempre buscando equilíbrio entre performance, acessibilidade e boa experiência de uso.
 
 <br clear="both" />
 
