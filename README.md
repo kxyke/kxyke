@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/blackhole.gif" alt="Buraco negro em ASCII" width="513" />
+  <img src="./assets/blackhole.svg" alt="Buraco negro em ASCII" width="512" />
 </div>
 
 # Kayke — Engenheiro de Software · Desenvolvedor Mobile
