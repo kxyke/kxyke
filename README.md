@@ -1,4 +1,4 @@
-### Hey, I'm Kayke! 👋
+### Hey, I'm Kayke! 
 
 <div align="center">
   <a href="https://kxyke.com">
